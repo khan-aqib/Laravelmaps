@@ -83,5 +83,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 - composer update
 - npm install
 - run npm dev(if required)
+- make a mock.txt in storage\app\public\ and add some records in a line  -> 1,Aqib,Khan,Male,25.2048 55.2708
 - php artisan serve
 
